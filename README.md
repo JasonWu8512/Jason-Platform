@@ -20,9 +20,7 @@
 
 #### 💒 平台地址地址
 - github 
-https://github.com/baizunxian/zerorunner
-- gitee
-https://gitee.com/xb_xiaobai/zerorunner
+https://github.com/JasonWu8512/Jason-Platform.git
 
 #### ⛱️ 线上预览
 
