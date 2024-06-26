@@ -19,7 +19,7 @@
 
 
 #### 💒 平台地址地址
-- github 
+- github
 https://github.com/JasonWu8512/Jason-Platform.git
 
 #### ⛱️ 线上预览
